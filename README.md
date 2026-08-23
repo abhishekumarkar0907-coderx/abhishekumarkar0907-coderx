@@ -1,152 +1,99 @@
 <div align="center">
 
-### `abhishekumarkar0907-coderx / README.md`
-
-**English | [Projects](#projects) | [Stack](#stack) | [Experience](#experience) | [Contact](#contact)**
+<img src="./assets/hero.svg" width="100%" alt="Abhishek Umarkar — AI Builder, Full Stack Developer, Systems Engineer">
 
 <br>
 
-<img src="https://github.com/abhishekumarkar0907-coderx.png" width="150" alt="Abhishek Umarkar">
-
-<br><br>
-
-# Hi, I'm Abhishek Umarkar
-
-### AI Builder • Full Stack Developer • Systems Engineer
-
-**Computer Science student building AI-native software, developer tools, and real-world products.**
-
-Python • C/C++ • TypeScript • JavaScript • React • Node.js • Linux • AI • Automation
-
-<br>
-
-[Profile](#profile) · [Projects](#projects) · [Stack](#stack) · [Experience](#experience) · [Contact](#contact)
+Profile · Projects · Stack · Experience · Contact
 
 </div>
 
----
+Profile
 
-## Profile
+I am a Computer Science student focused on AI systems, software engineering, developer tooling, and automation.
 
-I am a Computer Science student interested in building software at the intersection of **artificial intelligence, systems, automation, and product engineering**.
+I build products to understand systems deeply — from local LLM pipelines and AI agents to backend infrastructure and full-stack applications.
 
-My current focus is on understanding how complex software systems work and turning that understanding into useful products.
+My current work is centered around turning AI from a chat interface into something that can understand software, operate tools, and solve real workflows.
 
-I enjoy working with AI agents, local LLMs, developer tooling, backend systems, automation pipelines, and full-stack applications.
+What I Do
 
-I learn primarily by building — taking an idea from a rough concept to a working system, then iterating on the parts that fail.
+AI Systems — LLMs, local inference, agents, retrieval and context engineering
 
----
+Developer Tools — code intelligence, repository understanding and coding workflows
 
-## What I Do
+Software Engineering — backend systems, APIs, automation and full-stack applications
 
-* **Build** — AI-powered applications, developer tools, and full-stack products
-* **Engineer** — Backend systems, automation pipelines, APIs, and software infrastructure
-* **Explore** — LLMs, AI agents, local inference, code intelligence, and system design
-* **Experiment** — New architectures, tools, frameworks, and product ideas
-* **Learn** — By shipping real projects and understanding systems from the inside out
+Product Development — taking ideas from prototype to usable software
 
----
+Systems Exploration — understanding how software works below the abstraction layer
 
-## Projects
+Projects
 
-### AbhiCode
+AbhiCode
 
-AI coding partner focused on understanding software projects and entire codebases rather than generating isolated code snippets.
+An AI coding partner focused on understanding an entire codebase rather than generating isolated snippets.
 
-Working on:
+Working on: repository intelligence · context prioritization · code graphs · local LLMs · AI agents · developer automation
 
-* Codebase understanding
-* Repository intelligence
-* Context prioritization
-* AI agents
-* Local LLMs
-* Developer automation
+Naaphaa
 
-### Naaphaa
+An AgriTech platform designed around practical tools and intelligence for farmers.
 
-An AgriTech platform focused on helping farmers make better decisions through technology.
+Working on: mandi intelligence · market prices · group selling · farming workflows · AI-powered tools
 
-Areas include:
+Claude Evidence Engine
 
-* Agricultural intelligence
-* Market and mandi prices
-* Group selling
-* Farming information
-* AI-powered tools
-* Farmer workflows
+A multi-source evidence and verification project exploring how AI systems can retrieve, compare and validate information before producing an answer.
 
-### Claude Evidence Engine
+Stack
 
-A multi-source evidence and verification project exploring how AI systems can retrieve, compare, and validate information instead of relying on a single generated answer.
+Languages
 
----
+Python · C/C++ · JavaScript · TypeScript
 
-## Stack
+AI / ML
 
-### Languages
+LLMs · AI Agents · Ollama · RAG · Embeddings · Local Inference
 
-`Python` · `C/C++` · `JavaScript` · `TypeScript`
+Web / Backend
 
-### AI / ML
+React · Vite · Node.js · REST APIs · Supabase · PostgreSQL
 
-`LLMs` · `AI Agents` · `Ollama` · `RAG` · `Embeddings` · `Local Inference`
+Systems / Infrastructure
 
-### Web / Backend
+Linux · Git · GitHub · Docker · SQLite · Vercel · Cloudflare
 
-`React` · `Vite` · `Node.js` · `REST APIs` · `Supabase` · `PostgreSQL`
+Experience
 
-### Systems / Infrastructure
+Building AI Systems
 
-`Linux` · `Git` · `GitHub` · `Docker` · `SQLite` · `Cloudflare` · `Vercel`
+Experimenting with local language models and architectures for coding agents, context management, retrieval and codebase understanding.
 
----
+Software Development
 
-## Experience
+Building full-stack applications, backend services, automation pipelines and developer tooling.
 
-### Software Development
+Product Engineering
 
-Building and experimenting with software systems across AI, backend development, automation, and full-stack applications.
+Interested in the complete loop: identifying a problem, designing the system, shipping a prototype, measuring what fails and iterating.
 
-### AI Systems
+Currently Working On
 
-Working with local language models and experimenting with architectures for AI coding agents, context management, retrieval, and codebase understanding.
+AI Agents · Local LLMs · AbhiCode · Developer Tools · Automation · Naaphaa
 
-### Product Development
+Interests
 
-Building products around real-world problems rather than treating development as only a programming exercise.
+Artificial Intelligence · Systems Engineering · Developer Tools · Automation · Software Architecture · Reverse Engineering · Startups · AgriTech
 
----
+Contact
 
-## Currently Working On
+GitHub · X
 
-**AI Agents** · **Local LLMs** · **Developer Tools** · **AbhiCode** · **Naaphaa** · **Automation Systems**
-
----
-
-## Interests
-
-Artificial Intelligence
-Software Engineering
-Systems & Infrastructure
-Developer Tools
-Reverse Engineering
-Automation
-Startups & Product Development
-AgriTech
-
----
-
-## Contact
-
-**GitHub:** [abhishekumarkar0907-coderx](https://github.com/abhishekumarkar0907-coderx)
-
-**X:** [@abhishekvxz](https://x.com/abhishekvxz)
-
----
+<br>
 
 <div align="center">
 
-`Build → Break → Understand → Improve`
+Build → Break → Understand → Improve
 
 </div>
