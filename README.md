@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.gif" width="100%" alt="Abhishek Umarkar">
+<img src="./assets/hero.gif" width="100%" alt="Abhishek Umarkar GitHub profile">
 
 <br>
 
