@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Abhishek Umarkar">
+<img src="./assets/hero.gif" width="100%" alt="Abhishek Umarkar">
 
 <br>
 
@@ -12,15 +12,15 @@ Profile
 
 I'm a Computer Science student focused on AI systems, software engineering, developer tooling, and automation.
 
-I build software to understand how systems work — from local LLM pipelines and AI agents to backend infrastructure and full-stack products. My current focus is turning AI from a simple chat interface into software that can understand codebases, use tools, and execute useful workflows.
+I build software around AI and explore how complex systems can be turned into useful products. My current work spans local LLMs, AI agents, code intelligence, backend systems, and full-stack development.
 
 Projects
 
 AbhiCode
 
-An AI coding partner focused on understanding an entire codebase rather than generating isolated snippets.
+An AI coding partner focused on understanding codebases and helping developers work with their projects.
 
-Focus: codebase understanding · repository intelligence · context management · local LLMs · AI agents · developer automation
+Focus: AI agents · local LLMs · repository intelligence · context engineering · developer automation
 
 Naaphaa
 
@@ -30,23 +30,19 @@ Focus: mandi intelligence · market information · group selling · farmer workf
 
 Claude Evidence Engine
 
-An experiment in evidence retrieval and verification for AI systems.
+An experiment around evidence retrieval and verification for AI systems.
 
 Focus: multi-source retrieval · evidence comparison · verification · grounded answers
 
 Stack
 
-Languages
-Python · C++ · JavaScript · TypeScript
+Languages: Python · C++ · JavaScript · TypeScript
 
-AI / ML
-LLMs · AI Agents · RAG · Embeddings · Local Inference · Ollama
+AI: LLMs · AI Agents · RAG · Embeddings · Local Inference · Ollama
 
-Development
-React · Vite · Node.js · REST APIs · Supabase
+Development: React · Vite · Node.js · REST APIs · Supabase
 
-Systems
-Linux · Git · GitHub · Docker · SQLite · Vercel · Cloudflare
+Systems: Linux · Git · GitHub · Docker · SQLite · Vercel · Cloudflare
 
 Currently
 
@@ -59,11 +55,3 @@ Artificial Intelligence · Software Architecture · Developer Tools · Systems E
 Contact
 
 GitHub · X
-
-<br>
-
-<div align="center">
-
-Build → Break → Understand → Improve
-
-</div>
