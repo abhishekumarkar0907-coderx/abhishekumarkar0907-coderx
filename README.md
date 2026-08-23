@@ -1,26 +1,14 @@
 <div align="center">
 
-### `abhishekumarkar0907-coderx / README.md`
+<img src="https://github.com/abhishekumarkar0907-coderx.png" width="140" alt="Abhishek Umarkar" />
 
-**English | [Projects](#projects) | [Stack](#stack) | [Experience](#experience) | [Contact](#contact)**
+# Abhishek Umarkar
 
-<br>
+**Full-Stack Developer · AI/Backend Systems · Founder, Naaphaa**
 
-<img src="https://github.com/abhishekumarkar0907-coderx.png" width="150" alt="Abhishek Umarkar">
+First-year CS student (Cloud Technology & Information Security) building AI-native software and real-world products — most of it shipped, not just planned.
 
-<br><br>
-
-# Hi, I'm Abhishek Umarkar
-
-### AI Builder • Full Stack Developer • Systems Engineer
-
-**Computer Science student building AI-native software, developer tools, and real-world products.**
-
-Python • C/C++ • TypeScript • JavaScript • React • Node.js • Linux • AI • Automation
-
-<br>
-
-[Profile](#profile) · [Projects](#projects) · [Stack](#stack) · [Experience](#experience) · [Contact](#contact)
+[Profile](#profile) · [Projects](#projects) · [Stack](#stack) · [Contact](#contact)
 
 </div>
 
@@ -28,122 +16,67 @@ Python • C/C++ • TypeScript • JavaScript • React • Node.js • Linux �
 
 ## Profile
 
-I am a Computer Science student interested in building software at the intersection of **artificial intelligence, systems, automation, and product engineering**.
-
-My current focus is on understanding how complex software systems work and turning that understanding into useful products.
-
-I enjoy working with AI agents, local LLMs, developer tooling, backend systems, automation pipelines, and full-stack applications.
-
-I learn primarily by building — taking an idea from a rough concept to a working system, then iterating on the parts that fail.
-
----
-
-## What I Do
-
-* **Build** — AI-powered applications, developer tools, and full-stack products
-* **Engineer** — Backend systems, automation pipelines, APIs, and software infrastructure
-* **Explore** — LLMs, AI agents, local inference, code intelligence, and system design
-* **Experiment** — New architectures, tools, frameworks, and product ideas
-* **Learn** — By shipping real projects and understanding systems from the inside out
-
----
+I build by shipping: rough concept → working system → fix what breaks. I come from a farming family in Jamod, Buldhana district, Maharashtra — that's the actual reason I'm building Naaphaa, not a resume line. My other focus is AI systems: retrieval, agents, and tools that make models reason over real evidence instead of guessing.
 
 ## Projects
 
-### AbhiCode
-
-AI coding partner focused on understanding software projects and entire codebases rather than generating isolated code snippets.
-
-Working on:
-
-* Codebase understanding
-* Repository intelligence
-* Context prioritization
-* AI agents
-* Local LLMs
-* Developer automation
-
 ### Naaphaa
+AgriTech platform giving farmers in Vidarbha, Maharashtra real mandi (market) prices and better selling decisions — built out of firsthand experience with price manipulation in local markets.
 
-An AgriTech platform focused on helping farmers make better decisions through technology.
-
-Areas include:
-
-* Agricultural intelligence
-* Market and mandi prices
-* Group selling
-* Farming information
-* AI-powered tools
-* Farmer workflows
+- Full-stack: React + TypeScript + Tailwind (Cloudflare Pages), Node.js + Express + TypeScript + PostgreSQL
+- Live Prices, News, Predictions, and Alerts APIs; full Marathi/Hindi/English localization
+- Validated with 42 farmer interviews across the target region
+- Pitched for Pusa Krishi ARISE incubation
 
 ### Claude Evidence Engine
+Open-source MCP server for autonomous academic research, built for Claude Desktop.
 
-A multi-source evidence and verification project exploring how AI systems can retrieve, compare, and validate information instead of relying on a single generated answer.
+- Aggregates OpenAlex (250M+ papers), arXiv, PubMed, and Semantic Scholar
+- Citation graph traversal and full-text search (PostgreSQL + GIN indexing)
+- Contradiction detection across papers (Jaccard similarity) and claim extraction via Llama 3.3 70B
 
----
+### AbhiCode
+Local coding agent — a ReAct loop running Qwen2.5-Coder 7B via Ollama, built to run fully offline on consumer GPU hardware.
 
 ## Stack
 
-### Languages
+**Languages**
 
-`Python` · `C/C++` · `JavaScript` · `TypeScript`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### AI / ML
+**AI / ML**
 
-`LLMs` · `AI Agents` · `Ollama` · `RAG` · `Embeddings` · `Local Inference`
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-### Web / Backend
+Also: LLM Agents (ReAct) · RAG · Local Inference
 
-`React` · `Vite` · `Node.js` · `REST APIs` · `Supabase` · `PostgreSQL`
+**Backend**
 
-### Systems / Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-`Linux` · `Git` · `GitHub` · `Docker` · `SQLite` · `Cloudflare` · `Vercel`
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## Experience
+**Infra**
 
-### Software Development
-
-Building and experimenting with software systems across AI, backend development, automation, and full-stack applications.
-
-### AI Systems
-
-Working with local language models and experimenting with architectures for AI coding agents, context management, retrieval, and codebase understanding.
-
-### Product Development
-
-Building products around real-world problems rather than treating development as only a programming exercise.
-
----
-
-## Currently Working On
-
-**AI Agents** · **Local LLMs** · **Developer Tools** · **AbhiCode** · **Naaphaa** · **Automation Systems**
-
----
-
-## Interests
-
-Artificial Intelligence
-Software Engineering
-Systems & Infrastructure
-Developer Tools
-Reverse Engineering
-Automation
-Startups & Product Development
-AgriTech
-
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ## Contact
 
-**GitHub:** [abhishekumarkar0907-coderx](https://github.com/abhishekumarkar0907-coderx)
-
-**X:** [@abhishekvxz](https://x.com/abhishekvxz)
-
----
+- GitHub: [@abhishekumarkar0907-coderx](https://github.com/abhishekumarkar0907-coderx)
+- X: [@abhishekvxz](https://x.com/abhishekvxz)
 
 <div align="center">
 
